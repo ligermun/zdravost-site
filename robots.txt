@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ligermun.github.io/zdravost-site/sitemap.xml
